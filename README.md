@@ -1,2 +1,2 @@
-# Project-1
+# Natours test site
 Natours test site
